@@ -3,9 +3,9 @@
 ### Usage Description
 
 This is a project for student management. 
-User can student details, his/her profile pic and semester marks
+Staff can enter student details, his/her profile pic and semester marks
 Through this application user can sent mail to all his/her students very easily
-This can be customized to all departments by simply changing the credit point for subjects
+This can be customized to all departments by simply changing the credit points for subjects
 It will calculate GPA, CGPA (with number of backlogs and all clears)
 
 All the details in the application can be exported at anytime to excel sheets. 
